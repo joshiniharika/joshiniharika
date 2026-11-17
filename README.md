@@ -33,7 +33,7 @@ My day-to-day involves building end-to-end aDNA pipelines from raw FASTQ, runnin
 
 ---
 
-### 📄 Publications (First Author)
+### 📄 Publications 
 
 - Joshi N et al. *Assessment of the HER2 Equivocal Cases in Breast Cancer Following Laterality*
 - Joshi N et al. *Triple-Negative Breast Cancer in India: Exploring Age Distribution and Laterality Patterns*
